@@ -1,7 +1,7 @@
 {
   "arduino.ignoreBoards": [],
   "arduino.path": "/Applications",
-  "arduino.commandPath": "/usr/local/Cellar/arduino-cli/0.21.1/bin/arduino-cli",
+  "arduino.commandPath": "Contents/MacOS/Arduino",
   "arduino.logLevel": "info",
   "arduino.enableUSBDetection": true,
   "arduino.disableTestingOpen": false,
