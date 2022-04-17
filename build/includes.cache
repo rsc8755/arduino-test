@@ -1,0 +1,32 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/standard"
+  },
+  {
+    "Sourcefile": "/Users/kabukiyuutarou/project/arduino-test/build/sketch/arduino-test.ino.cpp",
+    "Include": "dht_nonblocking.h",
+    "Includepath": "/Users/kabukiyuutarou/Documents/Arduino/libraries/DHT"
+  },
+  {
+    "Sourcefile": "/Users/kabukiyuutarou/project/arduino-test/build/sketch/arduino-test.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/kabukiyuutarou/project/arduino-test/build/sketch/dht_nonblocking.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/kabukiyuutarou/Documents/Arduino/libraries/DHT/dht_nonblocking.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

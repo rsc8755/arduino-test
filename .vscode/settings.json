@@ -1,0 +1,12 @@
+{
+  "arduino.ignoreBoards": [],
+  "arduino.path": "/Applications",
+  "arduino.commandPath": "/usr/local/Cellar/arduino-cli/0.21.1/bin/arduino-cli",
+  "arduino.logLevel": "info",
+  "arduino.enableUSBDetection": true,
+  "arduino.disableTestingOpen": false,
+  "arduino.skipHeaderProvider": false,
+  "arduino.additionalUrls": [],
+  "arduino.defaultBaudRate": 9600,
+  "C_Cpp.intelliSenseEngine": "Tag Parser"
+}
